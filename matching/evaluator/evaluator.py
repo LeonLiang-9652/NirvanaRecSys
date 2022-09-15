@@ -1,8 +1,3 @@
-"""
-Created on Nov 14, 2021
-Evaluate Functions.
-@author: Ziyao Geng(zggzy1996@163.com)
-"""
 from metrics import *
 
 
