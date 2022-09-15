@@ -1,9 +1,8 @@
 import tensorflow as tf
 
-# Training samples path, change to your local path
 training_samples_file_path = tf.keras.utils.get_file("trainingSamples.csv",
                                                      "/yuboliang/datasets/recsys/movielens/trainSamles.py")
-# Test samples path, change to your local path
+
 test_samples_file_path = tf.keras.utils.get_file("testSamples.csv",
                                                  "/yuboliang/datasets/recsys/movielens/testSamles.py")
 
